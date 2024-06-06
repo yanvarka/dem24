@@ -1,8 +1,8 @@
 # DEM24
 **Ультимативная записная книжка по дем экзамену 2024**
 
-[На всякий](https://github.com/NyashMan/DEMO2024)
-
+[Главная методичка](https://github.com/NyashMan/DEMO2024)
+[Вторая мб поможет с тунелями](https://docs.google.com/document/d/1EIG2nkQc0eYAxYpELRR9aBFR5u15fmHn4_MHWqKP3hc/edit
 ## Шаги выполнения
 
 ### 1. Установить IP
